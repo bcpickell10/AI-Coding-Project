@@ -1,6 +1,3 @@
-# AI-Coding-Project
-Used to re-create DS-3850 python coding projects using AI (ChatGPT 3.5)
-
 def mad_lib():
     # Prompting user for inputs
     adjective = input("Enter an adjective: ")
